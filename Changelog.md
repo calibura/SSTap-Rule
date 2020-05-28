@@ -6,6 +6,8 @@
 
 新增`Minecraft-Dungeons,我的世界-地下城` 游戏规则 
 
+更新`Steam` 程序规则
+
 ### 2020年5月24日
 
 更新`Discord,Discord语音` 程序规则
